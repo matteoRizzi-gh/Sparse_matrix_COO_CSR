@@ -27,4 +27,4 @@ Equivalently with the compile script given, with:
 	chmod -x compile.sh
 	./compile.sh
 
-Author Rizzi Matteo
+Rizzi Matteo
